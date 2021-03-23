@@ -44,6 +44,18 @@
     ]
   },
   "devDependencies": {
-    "json-server": "^0.16.3"
-  }
+    "@types/react": "^17.0.3",
+    "@types/react-dom": "^17.0.2",
+    "@types/react-modal": "^3.12.0",
+    "@types/react-router-dom": "^5.1.7",
+    "@types/styled-components": "^5.1.9",
+    "awesome-typescript-loader": "^5.2.1",
+    "json-server": "^0.16.3",
+    "source-map-loader": "^2.0.1",
+    "typescript": "^4.2.3"
+  },
+  "main": "index.js",
+  "repository": "https://github.com/barriolo/reactjs-refactoring-classes-ts.git",
+  "author": "Barriolo <matheusbarriolo@gmail.com>",
+  "license": "MIT"
 }
